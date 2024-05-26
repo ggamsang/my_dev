@@ -1,2 +1,4 @@
 # my_dev
-some stuff when i code :) 
+Some thindr I use when I code :) 
+### keyboard
+- sofle choc
